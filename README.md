@@ -140,10 +140,6 @@ This Contact Manager project is a must-do for anyone wanting to master Node.js a
 
 Contributions are welcome! If you have suggestions or improvements, please create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to customize this README further based on your project specifics. Happy coding!
